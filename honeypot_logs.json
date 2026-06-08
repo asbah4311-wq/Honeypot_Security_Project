@@ -1,0 +1,1101 @@
+[
+    {
+        "timestamp": "2026-05-30 22:58:59.314163",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 21,
+        "service": "FTP",
+        "data_sent": "\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.326723",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 22,
+        "service": "SSH",
+        "data_sent": "GET / HTTP/1.0\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.335463",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 3306,
+        "service": "MySQL",
+        "data_sent": "OPTIONS / HTTP/1.0\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.345972",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.347263",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "\u0018\u0018\u0000IBM-3279-4-E\u0019\u0019\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.348548",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 21,
+        "service": "FTP",
+        "data_sent": "GET / HTTP/1.0\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.350609",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0000\u0000(r\u001d\u0013\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0001\u0000\u0001|\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.402251",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "GET / HTTP/1.0\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.405122",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 22,
+        "service": "SSH",
+        "data_sent": "OPTIONS / HTTP/1.0\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.416055",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 3306,
+        "service": "MySQL",
+        "data_sent": "OPTIONS / RTSP/1.0\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.419811",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 21,
+        "service": "FTP",
+        "data_sent": "OPTIONS / HTTP/1.0\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.432566",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "OPTIONS / HTTP/1.0\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.444389",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 3306,
+        "service": "MySQL",
+        "data_sent": "\u0000\u0000(r\u001d\u0013\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0001\u0000\u0001|\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.447093",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 21,
+        "service": "FTP",
+        "data_sent": "OPTIONS / RTSP/1.0\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.466262",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0000\u001e\u0000\u0006\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0007version\u0004bind\u0000\u0000\u0010\u0000\u0003"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.470563",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 22,
+        "service": "SSH",
+        "data_sent": "OPTIONS / RTSP/1.0\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.513282",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 3306,
+        "service": "MySQL",
+        "data_sent": "\u0000\u001e\u0000\u0006\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0007version\u0004bind\u0000\u0000\u0010\u0000\u0003"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.519747",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 3306,
+        "service": "MySQL",
+        "data_sent": "\u0000\f\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.528751",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 21,
+        "service": "FTP",
+        "data_sent": "\u0000\u0000(r\u001d\u0013\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0001\u0000\u0001|\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.530650",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0000\f\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.542884",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "OPTIONS / RTSP/1.0\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.545782",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 21,
+        "service": "FTP",
+        "data_sent": "\u0000\u001e\u0000\u0006\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0007version\u0004bind\u0000\u0000\u0010\u0000\u0003"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.548087",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 3306,
+        "service": "MySQL",
+        "data_sent": "HELP\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.562172",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "HELP\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.572523",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 22,
+        "service": "SSH",
+        "data_sent": "HELP\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.583042",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 21,
+        "service": "FTP",
+        "data_sent": "\u0000\f\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.594902",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 3306,
+        "service": "MySQL",
+        "data_sent": "\u0016\u0003\u0000\u0000S\u0001\u0000\u0000O\u0003\u0000?G,`~\u0000{\u0556w<=o\u0010n\u0000\u0000(\u0000\u0016\u0000\u0013\u0000\n\u0000f\u0000\u0005\u0000\u0004\u0000e\u0000d\u0000c\u0000b\u0000a\u0000`\u0000\u0015\u0000\u0012\u0000\t\u0000\u0014\u0000\u0011\u0000\b\u0000\u0006\u0000\u0003\u0001\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.598373",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0016\u0003\u0000\u0000S\u0001\u0000\u0000O\u0003\u0000?G,`~\u0000{\u0556w<=o\u0010n\u0000\u0000(\u0000\u0016\u0000\u0013\u0000\n\u0000f\u0000\u0005\u0000\u0004\u0000e\u0000d\u0000c\u0000b\u0000a\u0000`\u0000\u0015\u0000\u0012\u0000\t\u0000\u0014\u0000\u0011\u0000\b\u0000\u0006\u0000\u0003\u0001\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.603624",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "\u0000\u0000(r\u001d\u0013\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0001\u0000\u0001|\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.664103",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 21,
+        "service": "FTP",
+        "data_sent": "\u0016\u0003\u0000\u0000S\u0001\u0000\u0000O\u0003\u0000?G,`~\u0000{\u0556w<=o\u0010n\u0000\u0000(\u0000\u0016\u0000\u0013\u0000\n\u0000f\u0000\u0005\u0000\u0004\u0000e\u0000d\u0000c\u0000b\u0000a\u0000`\u0000\u0015\u0000\u0012\u0000\t\u0000\u0014\u0000\u0011\u0000\b\u0000\u0006\u0000\u0003\u0001\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.665000",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "\u0000\u001e\u0000\u0006\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0007version\u0004bind\u0000\u0000\u0010\u0000\u0003"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.676172",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 3306,
+        "service": "MySQL",
+        "data_sent": "\u0016\u0003\u0000\u0000i\u0001\u0000\u0000e\u0003\u0003U\u001crandom1random2random3random4\u0000\u0000\f\u0000/\u0000\n\u0000\u0013\u00009\u0000\u0004\u0000\u0001\u0000\u00000\u0000\r\u0000,\u0000*\u0000\u0001\u0000\u0003\u0000\u0002\u0006\u0001\u0006\u0003\u0006\u0002\u0002\u0001\u0002\u0003\u0002\u0002\u0003\u0001\u0003\u0003\u0003\u0002\u0004\u0001\u0004\u0003\u0004\u0002\u0001\u0001\u0001\u0003\u0001\u0002\u0005\u0001\u0005\u0003\u0005\u0002"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.679963",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 21,
+        "service": "FTP",
+        "data_sent": "\u0016\u0003\u0000\u0000i\u0001\u0000\u0000e\u0003\u0003U\u001crandom1random2random3random4\u0000\u0000\f\u0000/\u0000\n\u0000\u0013\u00009\u0000\u0004\u0000\u0001\u0000\u00000\u0000\r\u0000,\u0000*\u0000\u0001\u0000\u0003\u0000\u0002\u0006\u0001\u0006\u0003\u0006\u0002\u0002\u0001\u0002\u0003\u0002\u0002\u0003\u0001\u0003\u0003\u0003\u0002\u0004\u0001\u0004\u0003\u0004\u0002\u0001\u0001\u0001\u0003\u0001\u0002\u0005\u0001\u0005\u0003\u0005\u0002"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.703543",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 22,
+        "service": "SSH",
+        "data_sent": "\u0016\u0003\u0000\u0000i\u0001\u0000\u0000e\u0003\u0003U\u001crandom1random2random3random4\u0000\u0000\f\u0000/\u0000\n\u0000\u0013\u00009\u0000\u0004\u0000\u0001\u0000\u00000\u0000\r\u0000,\u0000*\u0000\u0001\u0000\u0003\u0000\u0002\u0006\u0001\u0006\u0003\u0006\u0002\u0002\u0001\u0002\u0003\u0002\u0002\u0003\u0001\u0003\u0003\u0003\u0002\u0004\u0001\u0004\u0003\u0004\u0002\u0001\u0001\u0001\u0003\u0001\u0002\u0005\u0001\u0005\u0003\u0005\u0002"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.705270",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "\u0016\u0003\u0000\u0000S\u0001\u0000\u0000O\u0003\u0000?G,`~\u0000{\u0556w<=o\u0010n\u0000\u0000(\u0000\u0016\u0000\u0013\u0000\n\u0000f\u0000\u0005\u0000\u0004\u0000e\u0000d\u0000c\u0000b\u0000a\u0000`\u0000\u0015\u0000\u0012\u0000\t\u0000\u0014\u0000\u0011\u0000\b\u0000\u0006\u0000\u0003\u0001\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.707342",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 22,
+        "service": "SSH",
+        "data_sent": "\u0000\u0000\u0000qjn0k\u0003\u0002\u0001\u0005\u0003\u0002\u0001\n^0\\\u0007\u0003\u0005\u0000P\u0000\u0010\u0004\u001b\u0002NM\u00170\u0015\u0003\u0002\u0001\u0000\u000e0\f\u001b\u0006krbtgt\u001b\u0002NM\u0011\u0018\u000f19700101000000Z\u0006\u0002\u0004\u001f\u001e\u0668\u00170\u0015\u0002\u0001\u0012\u0002\u0001\u0011\u0002\u0001\u0010\u0002\u0001\u0017\u0002\u0001\u0001\u0002\u0001\u0003\u0002\u0001\u0002"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.710982",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 21,
+        "service": "FTP",
+        "data_sent": "\u0000\u0000\u0000qjn0k\u0003\u0002\u0001\u0005\u0003\u0002\u0001\n^0\\\u0007\u0003\u0005\u0000P\u0000\u0010\u0004\u001b\u0002NM\u00170\u0015\u0003\u0002\u0001\u0000\u000e0\f\u001b\u0006krbtgt\u001b\u0002NM\u0011\u0018\u000f19700101000000Z\u0006\u0002\u0004\u001f\u001e\u0668\u00170\u0015\u0002\u0001\u0012\u0002\u0001\u0011\u0002\u0001\u0010\u0002\u0001\u0017\u0002\u0001\u0001\u0002\u0001\u0003\u0002\u0001\u0002"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.712593",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 3306,
+        "service": "MySQL",
+        "data_sent": "\u0000\u0000\u0000qjn0k\u0003\u0002\u0001\u0005\u0003\u0002\u0001\n^0\\\u0007\u0003\u0005\u0000P\u0000\u0010\u0004\u001b\u0002NM\u00170\u0015\u0003\u0002\u0001\u0000\u000e0\f\u001b\u0006krbtgt\u001b\u0002NM\u0011\u0018\u000f19700101000000Z\u0006\u0002\u0004\u001f\u001e\u0668\u00170\u0015\u0002\u0001\u0012\u0002\u0001\u0011\u0002\u0001\u0010\u0002\u0001\u0017\u0002\u0001\u0001\u0002\u0001\u0003\u0002\u0001\u0002"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.722225",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0016\u0003\u0000\u0000i\u0001\u0000\u0000e\u0003\u0003U\u001crandom1random2random3random4\u0000\u0000\f\u0000/\u0000\n\u0000\u0013\u00009\u0000\u0004\u0000\u0001\u0000\u00000\u0000\r\u0000,\u0000*\u0000\u0001\u0000\u0003\u0000\u0002\u0006\u0001\u0006\u0003\u0006\u0002\u0002\u0001\u0002\u0003\u0002\u0002\u0003\u0001\u0003\u0003\u0003\u0002\u0004\u0001\u0004\u0003\u0004\u0002\u0001\u0001\u0001\u0003\u0001\u0002\u0005\u0001\u0005\u0003\u0005\u0002"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.734931",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "\u0003\u0000\u0000*%\u0000\u0000\u0000\u0000\u0000Cookie: mstshash=nmap\r\n\u0001\u0000\b\u0000\u0003\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.738559",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 3306,
+        "service": "MySQL",
+        "data_sent": "\u0000\u0000\u0000SMBr\u0000\u0000\u0000\u0000\b\u0001@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000@\u0006\u0000\u0000\u0001\u0000\u0000\u0000\u0002PC NETWORK PROGRAM 1.0\u0000\u0002MICROSOFT NETWORKS 1.03\u0000\u0002MICROSOFT NETWORKS 3.0\u0000\u0002LANMAN1.0\u0000\u0002LM1.2X002\u0000\u0002Samba\u0000\u0002NT LANMAN 1.0\u0000\u0002NT LM 0.12\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.740453",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 21,
+        "service": "FTP",
+        "data_sent": "\u0000\u0000\u0000SMBr\u0000\u0000\u0000\u0000\b\u0001@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000@\u0006\u0000\u0000\u0001\u0000\u0000\u0000\u0002PC NETWORK PROGRAM 1.0\u0000\u0002MICROSOFT NETWORKS 1.03\u0000\u0002MICROSOFT NETWORKS 3.0\u0000\u0002LANMAN1.0\u0000\u0002LM1.2X002\u0000\u0002Samba\u0000\u0002NT LANMAN 1.0\u0000\u0002NT LM 0.12\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.799845",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 22,
+        "service": "SSH",
+        "data_sent": "\u0000\u0000\u0000SMBr\u0000\u0000\u0000\u0000\b\u0001@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000@\u0006\u0000\u0000\u0001\u0000\u0000\u0000\u0002PC NETWORK PROGRAM 1.0\u0000\u0002MICROSOFT NETWORKS 1.03\u0000\u0002MICROSOFT NETWORKS 3.0\u0000\u0002LANMAN1.0\u0000\u0002LM1.2X002\u0000\u0002Samba\u0000\u0002NT LANMAN 1.0\u0000\u0002NT LM 0.12\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.803345",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 21,
+        "service": "FTP",
+        "data_sent": "l\u0000\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.806775",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 3306,
+        "service": "MySQL",
+        "data_sent": "l\u0000\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.809833",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0000\u0000\u0000qjn0k\u0003\u0002\u0001\u0005\u0003\u0002\u0001\n^0\\\u0007\u0003\u0005\u0000P\u0000\u0010\u0004\u001b\u0002NM\u00170\u0015\u0003\u0002\u0001\u0000\u000e0\f\u001b\u0006krbtgt\u001b\u0002NM\u0011\u0018\u000f19700101000000Z\u0006\u0002\u0004\u001f\u001e\u0668\u00170\u0015\u0002\u0001\u0012\u0002\u0001\u0011\u0002\u0001\u0010\u0002\u0001\u0017\u0002\u0001\u0001\u0002\u0001\u0003\u0002\u0001\u0002"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.813029",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "\u0016\u0003\u0000\u0000i\u0001\u0000\u0000e\u0003\u0003U\u001crandom1random2random3random4\u0000\u0000\f\u0000/\u0000\n\u0000\u0013\u00009\u0000\u0004\u0000\u0001\u0000\u00000\u0000\r\u0000,\u0000*\u0000\u0001\u0000\u0003\u0000\u0002\u0006\u0001\u0006\u0003\u0006\u0002\u0002\u0001\u0002\u0003\u0002\u0002\u0003\u0001\u0003\u0003\u0003\u0002\u0004\u0001\u0004\u0003\u0004\u0002\u0001\u0001\u0001\u0003\u0001\u0002\u0005\u0001\u0005\u0003\u0005\u0002"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.815186",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 22,
+        "service": "SSH",
+        "data_sent": "l\u0000\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.830292",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0000\u0000\u0000SMBr\u0000\u0000\u0000\u0000\b\u0001@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000@\u0006\u0000\u0000\u0001\u0000\u0000\u0000\u0002PC NETWORK PROGRAM 1.0\u0000\u0002MICROSOFT NETWORKS 1.03\u0000\u0002MICROSOFT NETWORKS 3.0\u0000\u0002LANMAN1.0\u0000\u0002LM1.2X002\u0000\u0002Samba\u0000\u0002NT LANMAN 1.0\u0000\u0002NT LM 0.12\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.843872",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 3306,
+        "service": "MySQL",
+        "data_sent": "GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.859908",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "l\u0000\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.871013",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 21,
+        "service": "FTP",
+        "data_sent": "TNMP\u0004\u0000\u0000\u0000TNME\u0000\u0000\u0004\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.873544",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 22,
+        "service": "SSH",
+        "data_sent": "0\u0000\u0000\u0000-\u0002\u0001\u0007c\u0000\u0000\u0000$\u0004\u0000\n\u0001\u0000\n\u0001\u0000\u0002\u0001\u0000\u0002\u0001d\u0001\u0001\u0000\u000bobjectClass0\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.890269",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.930256",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 3306,
+        "service": "MySQL",
+        "data_sent": "\u0001default\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.931713",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "TNMP\u0004\u0000\u0000\u0000TNME\u0000\u0000\u0004\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.939166",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "\u0001default\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.944381",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 3306,
+        "service": "MySQL",
+        "data_sent": "0\u0000\u0000\u0000-\u0002\u0001\u0007c\u0000\u0000\u0000$\u0004\u0000\n\u0001\u0000\n\u0001\u0000\u0002\u0001\u0000\u0002\u0001d\u0001\u0001\u0000\u000bobjectClass0\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.958977",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "0\u0000\u0000\u0000-\u0002\u0001\u0007c\u0000\u0000\u0000$\u0004\u0000\n\u0001\u0000\n\u0001\u0000\u0002\u0001\u0000\u0002\u0001d\u0001\u0001\u0000\u000bobjectClass0\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.963792",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 21,
+        "service": "FTP",
+        "data_sent": "\u0000Z\u0000\u0000\u0001\u0000\u0000\u0000\u00016\u0001,\u0000\u0000\b\u0000\u007f\u007f\b\u0000\u0000\u0000\u0001\u0000 \u0000:\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00004\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000(CONNECT_DATA=(COMMAND=version))"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.971052",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 22,
+        "service": "SSH",
+        "data_sent": ":\u0000\u0000\u0000/\u0000\u0000\u0000\u0002\u0000\u0000@\u0002\u000f\u0000\u0001\u0000=\u0005\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000/\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000@\u001f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.976863",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0003\u0000\u0000\u000b\u0006\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.981869",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 3306,
+        "service": "MySQL",
+        "data_sent": "OPTIONS sip:nm SIP/2.0\r\nVia: SIP/2.0/TCP nm;branch=foo\r\nFrom: <sip:nm@nm>;tag=root\r\nTo: <sip:nm2@nm2>\r\nCall-ID: 50000\r\nCSeq: 42 OPTIONS\r\nMax-Forwards: 70\r\nContent-Length: 0\r\nContact: <sip:nm@nm>\r\nAccept: application/sdp\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:58:59.992963",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "0\f\u0002\u0001\u0001`\u0007\u0002\u0001\u0002\u0004\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.002125",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 22,
+        "service": "SSH",
+        "data_sent": "JRMI\u0000\u0002K"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.006277",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 21,
+        "service": "FTP",
+        "data_sent": "\u0012\u0001\u00004\u0000\u0000\u0000\u0000\u0000\u0000\u0015\u0000\u0006\u0001\u0000\u001b\u0000\u0001\u0002\u0000\u001c\u0000\f\u0003\u0000(\u0000\u0004\b\u0000\u0001U\u0000\u0000\u0000MSSQLServer\u0000H\u000f\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.012410",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "OPTIONS sip:nm SIP/2.0\r\nVia: SIP/2.0/TCP nm;branch=foo\r\nFrom: <sip:nm@nm>;tag=root\r\nTo: <sip:nm2@nm2>\r\nCall-ID: 50000\r\nCSeq: 42 OPTIONS\r\nMax-Forwards: 70\r\nContent-Length: 0\r\nContact: <sip:nm@nm>\r\nAccept: application/sdp\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.034253",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "DmdT\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0011\u0011\u0000\u0001\u0013"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.036763",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 22,
+        "service": "SSH",
+        "data_sent": "\u0001\u0000\u0000\u000b\u0000\u0000\u0000MMS\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0001\u0000\u0003\u0000\u000b\u0000\u0004\u0000\u001c\u0000\u0003\u0000N\u0000S\u0000P\u0000l\u0000a\u0000y\u0000e\u0000r\u0000/\u00009\u0000.\u00000\u0000.\u00000\u0000.\u00002\u00009\u00008\u00000\u0000;\u0000 \u0000{\u00000\u00000\u00000\u00000\u0000A\u0000A\u00000\u00000\u0000-\u00000\u0000A\u00000\u00000\u0000-\u00000\u00000\u0000a\u00000\u0000-\u0000A\u0000A\u00000\u0000A\u0000-\u00000\u00000\u00000\u00000\u0000A\u00000\u0000A\u0000A\u00000\u0000A\u0000A\u00000\u0000}\u0000\u0000\u0000m_"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.039273",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 3306,
+        "service": "MySQL",
+        "data_sent": "TNMP\u0004\u0000\u0000\u0000TNME\u0000\u0000\u0004\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.051925",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 21,
+        "service": "FTP",
+        "data_sent": "\u0000\u0003\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u000f\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.053389",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "TNMP\u0004\u0000\u0000\u0000TNME\u0000\u0000\u0004\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.100221",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 22,
+        "service": "SSH",
+        "data_sent": "\u0000Z\u0000\u0000\u0001\u0000\u0000\u0000\u00016\u0001,\u0000\u0000\b\u0000\u007f\u007f\b\u0000\u0000\u0000\u0001\u0000 \u0000:\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00004\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000(CONNECT_DATA=(COMMAND=version))"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.107165",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": ":\u0000\u0000\u0000/\u0000\u0000\u0000\u0002\u0000\u0000@\u0002\u000f\u0000\u0001\u0000=\u0005\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000/\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000@\u001f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.130638",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 3306,
+        "service": "MySQL",
+        "data_sent": "\u0003\u0000\u0000\u000b\u0006\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.134249",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "\u0003\u0000\u0000\u000b\u0006\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.137687",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 21,
+        "service": "FTP",
+        "data_sent": "GIOP\u0001\u0000\u0001\u0000$\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0006\u0000\u0000\u0000abcdef\u0000\u0000\u0004\u0000\u0000\u0000get\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.151482",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 3306,
+        "service": "MySQL",
+        "data_sent": "DmdT\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0011\u0011\u0000\u0001\u0013"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.163179",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "JRMI\u0000\u0002K"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.176222",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 22,
+        "service": "SSH",
+        "data_sent": "\u0012\u0001\u00004\u0000\u0000\u0000\u0000\u0000\u0000\u0015\u0000\u0006\u0001\u0000\u001b\u0000\u0001\u0002\u0000\u001c\u0000\f\u0003\u0000(\u0000\u0004\b\u0000\u0001U\u0000\u0000\u0000MSSQLServer\u0000H\u000f\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.179147",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0001\u0000\u0000\u000b\u0000\u0000\u0000MMS\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0001\u0000\u0003\u0000\u000b\u0000\u0004\u0000\u001c\u0000\u0003\u0000N\u0000S\u0000P\u0000l\u0000a\u0000y\u0000e\u0000r\u0000/\u00009\u0000.\u00000\u0000.\u00000\u0000.\u00002\u00009\u00008\u00000\u0000;\u0000 \u0000{\u00000\u00000\u00000\u00000\u0000A\u0000A\u00000\u00000\u0000-\u00000\u0000A\u00000\u00000\u0000-\u00000\u00000\u0000a\u00000\u0000-\u0000A\u0000A\u00000\u0000A\u0000-\u00000\u00000\u00000\u00000\u0000A\u00000\u0000A\u0000A\u00000\u0000A\u0000A\u00000\u0000}\u0000\u0000\u0000m_"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.187570",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "DmdT\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0011\u0011\u0000\u0001\u0013"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.189770",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 3306,
+        "service": "MySQL",
+        "data_sent": "JRMI\u0000\u0002K"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.296055",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0012\u0001\u00004\u0000\u0000\u0000\u0000\u0000\u0000\u0015\u0000\u0006\u0001\u0000\u001b\u0000\u0001\u0002\u0000\u001c\u0000\f\u0003\u0000(\u0000\u0004\b\u0000\u0001U\u0000\u0000\u0000MSSQLServer\u0000H\u000f\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.333071",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 3306,
+        "service": "MySQL",
+        "data_sent": "\u0000Z\u0000\u0000\u0001\u0000\u0000\u0000\u00016\u0001,\u0000\u0000\b\u0000\u007f\u007f\b\u0000\u0000\u0000\u0001\u0000 \u0000:\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00004\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000(CONNECT_DATA=(COMMAND=version))"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.370903",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0000\u0003\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u000f\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.374880",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "GIOP\u0001\u0000\u0001\u0000$\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0006\u0000\u0000\u0000abcdef\u0000\u0000\u0004\u0000\u0000\u0000get\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.410771",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 3306,
+        "service": "MySQL",
+        "data_sent": "\u0012\u0001\u00004\u0000\u0000\u0000\u0000\u0000\u0000\u0015\u0000\u0006\u0001\u0000\u001b\u0000\u0001\u0002\u0000\u001c\u0000\f\u0003\u0000(\u0000\u0004\b\u0000\u0001U\u0000\u0000\u0000MSSQLServer\u0000H\u000f\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.455667",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 3306,
+        "service": "MySQL",
+        "data_sent": "\u0000\u0003\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u000f\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.523642",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 3306,
+        "service": "MySQL",
+        "data_sent": "GIOP\u0001\u0000\u0001\u0000$\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0006\u0000\u0000\u0000abcdef\u0000\u0000\u0004\u0000\u0000\u0000get\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.636304",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0016\u0003\u0000\u0000i\u0001\u0000\u0000e\u0003\u0003U\u001crandom1random2random3random4\u0000\u0000\f\u0000/\u0000\n\u0000\u0013\u00009\u0000\u0004\u0000\u0001\u0000\u00000\u0000\r\u0000,\u0000*\u0000\u0001\u0000\u0003\u0000\u0002\u0006\u0001\u0006\u0003\u0006\u0002\u0002\u0001\u0002\u0003\u0002\u0002\u0003\u0001\u0003\u0003\u0003\u0002\u0004\u0001\u0004\u0003\u0004\u0002\u0001\u0001\u0001\u0003\u0001\u0002\u0005\u0001\u0005\u0003\u0005\u0002"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.639938",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "GET / HTTP/1.0\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.706393",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "GET / HTTP/1.0\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.711537",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "t3 12.1.2\nAS:2048\nHL:19\n\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.805714",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0016\u0003\u0000\u0000S\u0001\u0000\u0000O\u0003\u0000?G,`~\u0000{\u0556w<=o\u0010n\u0000\u0000(\u0000\u0016\u0000\u0013\u0000\n\u0000f\u0000\u0005\u0000\u0004\u0000e\u0000d\u0000c\u0000b\u0000a\u0000`\u0000\u0015\u0000\u0012\u0000\t\u0000\u0014\u0000\u0011\u0000\b\u0000\u0006\u0000\u0003\u0001\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.844577",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0016\u0003\u0001\u0006\u0001\u0000\u0006\u007f\u0003\u0003\t\u0013c\u0006Pa\u007f=\u046eeV\u0000c cq\u0017CE[4o\u001fx`\u0000\u0018/\u031e\u0019\u007fJj\u0000\u0013\u0002\u0013\u0003\u0013\u0001\u0000\u0002\u0000\u0001\u00003\u00009\u0000:\u00005\u0000/\u00004\u0006\u0010\u0015\u0000;,0\u0000\u0000\u0329\u0328\u032a]aWS\u0000+/\u0000\u0000\\`VR\u0000$(\u0000k\u0000jsw\u0000\u0000\u0000m\u0000#'\u0000g\u0000@rv\u0000\u0000\u0000l\u0000\n\u0014\u00008\u0000\u0000\u0019\u0000\t\u0013\u00002\u0000\u0000\u0000E\u0000D\u0018\u0000\u0000F\u0000Q\u0000P\u0000=\u0000\u0000<\u0000\u0000\u0000\u0000A\u0000\u0001\u0000\u0005t\u0000\u000b\u0000\u0004\u0003\u0000\u0001\u0002\u0000\n\u0000\u0012\u0000\u0010\u0011\u0000\u001d\u0000\u0017\u0000\u001e\u0000\u0018\u0000\u0019\u0001\u0000\u0001\u0001\u0000#\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\r\u0000<\u0000:\t\u0005\t\u0006\t\u0004\u0004\u0003\u0005\u0003\u0006\u0003\b\u0007\b\b\b\u001a\b\u001b\b\u001c\b\t\b\n\b\u000b\b\u0004\b\u0005\b\u0006\u0004\u0001\u0005\u0001\u0006\u0001\u0003\u0003\u0002\u0003\u0003\u0001\u0002\u0001\u0003\u0002\u0002\u0002\u0004\u0002\u0005\u0002\u0006\u0002\u0000+\u0000\t\b\u0003\u0004\u0003\u0003\u0003\u0002\u0003\u0001\u0000-\u0000\u0002\u0001\u0001\u00003\u0004\u0004\u0011\u0004\u0011l\u0011tmBAd\u02c8W\u0349\u0019Ts'<\u0002\u0006{X\u000e\u001eXB\u03f30\u001fTT2\u00100N\"\u0015a;X`D\r0Q%z\u00122mGXV(BA^\nL\fzG\u0016\u0000\u0000#%\u000fVw\u0007Y\u0002&_&i)\u0019l\u0017(\u073a\\\u000b\u0006\u0012\u001aD\u0017\u0016\u0019u\"S%q)+V\f\u001eBB\u0015W*\u0007M\f\u0015Fb!WHyW\u00061GN?y`.[8<\u0013\u001b\u0000O\u001b\u007f6P\u001d\u000buluBBk\u762e7\u02c78V2{\u0014\u001f\u0013\n\"_(\u0011Q*\u0010;\u0005,{3od8\t\tU\u05d4i\n\u00014gW\u0011]]\u0007@BcYx3\u001c:L\u0002Zix\u0004C\t\u1838\u0004l\u0666\u0017f^\u001d%^0c1c\u007f\bGLG:\u00015L{\u0015I:\u0000:g#\\\u0017<@G\u0123BB\u0006^ffYP\nshr1da/#\u000ezqob\u0017O,cNjo,\u0015a'\u00133\f3P6FV\u0004c.\u0004p\u0018I\u0001\u000bb?\u0018C:D\u000fX\u0019\u0006TRp\u02b78`n*\u0017A^i\u0019C; +2=M\t\u001e\u00014B3\u02244Y:\n{y\u0001_j\u0010PN\\7u@V\"D\u01ce+ha3D'Vgj)&|x@[z\u02b0\fj"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.901194",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "GET /nmaplowercheck1780163940 HTTP/1.1\r\nHost: 192.168.56.101\r\nConnection: close\r\nUser-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.918810",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "POST /sdk HTTP/1.1\r\nHost: 192.168.56.101\r\nContent-Length: 441\r\nConnection: close\r\nUser-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)\r\n\r\n<soap:Envelope xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\"><soap:Header><operationID>00000001-00000001</operationID></soap:Header><soap:Body><RetrieveServiceContent xmlns=\"urn:internalvim25\"><_this xsi:type=\"ManagedObjectReference\" type=\"ServiceInstance\">ServiceInstance</_this></RetrieveServiceContent></soap:Body></soap:Envelope>"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.966527",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0016\u0003\u0001\u0006\u0001\u0000\u0006\u007f\u0003\u0003\u000fc,3\u00053\u04338kV\u000f}}JY\u03de~\u0017e \u074b\npF\u0018ofKPM/N*4CT|\u0000\u0013\u0002\u0013\u0003\u0013\u0001\u0000\u0002\u0000\u0001\u00003\u00009\u0000:\u00005\u0000/\u00004\u0006\u0010\u0015\u0000;,0\u0000\u0000\u0329\u0328\u032a]aWS\u0000+/\u0000\u0000\\`VR\u0000$(\u0000k\u0000jsw\u0000\u0000\u0000m\u0000#'\u0000g\u0000@rv\u0000\u0000\u0000l\u0000\n\u0014\u00008\u0000\u0000\u0019\u0000\t\u0013\u00002\u0000\u0000\u0000E\u0000D\u0018\u0000\u0000F\u0000Q\u0000P\u0000=\u0000\u0000<\u0000\u0000\u0000\u0000A\u0000\u0001\u0000\u0005t\u0000\u000b\u0000\u0004\u0003\u0000\u0001\u0002\u0000\n\u0000\u0012\u0000\u0010\u0011\u0000\u001d\u0000\u0017\u0000\u001e\u0000\u0018\u0000\u0019\u0001\u0000\u0001\u0001\u0000#\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\r\u0000<\u0000:\t\u0005\t\u0006\t\u0004\u0004\u0003\u0005\u0003\u0006\u0003\b\u0007\b\b\b\u001a\b\u001b\b\u001c\b\t\b\n\b\u000b\b\u0004\b\u0005\b\u0006\u0004\u0001\u0005\u0001\u0006\u0001\u0003\u0003\u0002\u0003\u0003\u0001\u0002\u0001\u0003\u0002\u0002\u0002\u0004\u0002\u0005\u0002\u0006\u0002\u0000+\u0000\t\b\u0003\u0004\u0003\u0003\u0003\u0002\u0003\u0001\u0000-\u0000\u0002\u0001\u0001\u00003\u0004\u0004\u0011\u0004]w'Q4[p\u000eTe\u0019\u001cJF\u0016)\u001c\u0002\u03a42\bj\rh\r\u02e6vX5i\u0002Qens\u0018n<\\\u011b-_&\u007fpty\"b\u000e\u0014>\u06dfYP:\u0005g\u0586iRQ\t5v|N9\u007fL7\u0503t)p\u0011\rADg\u0015ecqP\b]$Z\u0010WU@'QR4\b\u0011peLeGH\u0005&h<rMl!X!q(\u0283|z4\u0006B6^;Y\u01c7\u0005sl\u007f[lE\u0005\u00063w\u01f1w\u0016\u0001\fjgu~3\u007f54\u01b5S7JR\u001521\u007f'r)\u0005\u0006#\u001cL8kr.GO}&G\u000f\t:\u001fw\u0702/\u0019\u0006V\rwjx\u000fY5<\"nk\u001czI{\u000bw<[-\fB\u001fC\\8\u0016\u0550ICZw\u0010dCs\u0002F\u0006N+D6\u001c\r\u0005qbW(-\u0015n\u0000h\u0018uHBw&\u007f)\u0017\fP4$\u007fm|\fL\u0779IdqpRZU%:vn0\u0019r\u000b`\u0387\u0006\u001a7\u0011i2/GRe\u001c\u00026vA\u0011\u0006$_%R\u001dP\u039cc:\\d.G\u0016y|{\f\u0012%\"..\u06bf'tYuwH#j!)O\u0005\u02d3w{LkaG\u001aH\ty\u000bZ_L\u0011izjt\u007f"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:00.998867",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0016\u0003\u0001\u0006\u0001\u0000\u0006\u007f\u0003\u0003f\u0012\u03c3\u0010\u00035%\b\u0226\u06e8\u0017W\u000f\u0004\u00010tF $}SZ=\u0011\\m\r\u001d\b6\u0015*\u0000\u0013\u0002\u0013\u0003\u0013\u0001\u0000\u0002\u0000\u0001\u00003\u00009\u0000:\u00005\u0000/\u00004\u0006\u0010\u0015\u0000;,0\u0000\u0000\u0329\u0328\u032a]aWS\u0000+/\u0000\u0000\\`VR\u0000$(\u0000k\u0000jsw\u0000\u0000\u0000m\u0000#'\u0000g\u0000@rv\u0000\u0000\u0000l\u0000\n\u0014\u00008\u0000\u0000\u0019\u0000\t\u0013\u00002\u0000\u0000\u0000E\u0000D\u0018\u0000\u0000F\u0000Q\u0000P\u0000=\u0000\u0000<\u0000\u0000\u0000\u0000A\u0000\u0001\u0000\u0005t\u0000\u000b\u0000\u0004\u0003\u0000\u0001\u0002\u0000\n\u0000\u0012\u0000\u0010\u0011\u0000\u001d\u0000\u0017\u0000\u001e\u0000\u0018\u0000\u0019\u0001\u0000\u0001\u0001\u0000#\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\r\u0000<\u0000:\t\u0005\t\u0006\t\u0004\u0004\u0003\u0005\u0003\u0006\u0003\b\u0007\b\b\b\u001a\b\u001b\b\u001c\b\t\b\n\b\u000b\b\u0004\b\u0005\b\u0006\u0004\u0001\u0005\u0001\u0006\u0001\u0003\u0003\u0002\u0003\u0003\u0001\u0002\u0001\u0003\u0002\u0002\u0002\u0004\u0002\u0005\u0002\u0006\u0002\u0000+\u0000\t\b\u0003\u0004\u0003\u0003\u0003\u0002\u0003\u0001\u0000-\u0000\u0002\u0001\u0001\u00003\u0004\u0004\u0011\u0004}\u001b,xRRt5\u0013\n8=JW+/{nk\u000e\u0017:E5\u057fC{BS\u0002\u0007fi?\u0007&\u000foLf@o4\u0011\u0014\u0010\fO7\u0011od1s`\u0000\u001cf-jmC@J\u0010Y'.C\u001d3 \u0007\u0014GKcg@-s\u0017\u0005D \u0016@cK*f\u0011/A\u0003%G0\u0011\u0017\u031b/a<\u0019Ki=\u0019\n\bs?\nP'R*A\u001f\u770d\u0019\u0017+ve\u001f!D\u0301\\\u000b\u0540i3\u001eQ\u0015\b\u016b\u031dP@ZJh#+L>xZGZk\b\u0004\u00129Bp\"\u0011_\u0001B(\u0012\u9358V>SC\u0223\u001f \u0012\u0015k8B\n\u001cV\u001f\u00cc9kt\u07a6OFe\bM\u0016T\u007f\u001bf`9\b\u001aY\u0019\u0013v\u0013t\u06e0\u0013z7b\u007f\u001e6!CM\u0002/\u001a\f\u0011\u033f\f>I+U^{\u0016?I$\u0006H\u001a|4\u0010\u0014[Yi\u0006\u007f4\".\u0325\u000b1.DH.k9'0\n\u00166\u001b\u000fT\u0000\u0015ZXk?]\u02b9OCEnpP^v\u00126ef\u0019Fe\u0017I\u0658\u001dzw\u0006\r=\u0005-6$(2\u0017\u001bPR5DR7\u0010;W8\u0015SD\u0417\u0010\u001c\u000b~\u0013Z>  oo\u0013:"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:01.068021",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "GET /evox/about HTTP/1.1\r\nHost: 192.168.56.101\r\nConnection: close\r\nUser-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:01.110463",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "GET /nmaplowercheck1780163940 HTTP/1.1\r\nHost: 192.168.56.101\r\nConnection: close\r\nUser-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:01.143574",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0016\u0003\u0001\u0006\u0001\u0000\u0006\u007f\u0003\u0003-\u0006\ry\u0015\u0000} \u000bUF*\u0015H3z\u001b  *Nr>U\u057a[qL$\u001el*8\u001au\u0011\u0000\u0013\u0002\u0013\u0003\u0013\u0001\u0000\u0002\u0000\u0001\u00003\u00009\u0000:\u00005\u0000/\u00004\u0006\u0010\u0015\u0000;,0\u0000\u0000\u0329\u0328\u032a]aWS\u0000+/\u0000\u0000\\`VR\u0000$(\u0000k\u0000jsw\u0000\u0000\u0000m\u0000#'\u0000g\u0000@rv\u0000\u0000\u0000l\u0000\n\u0014\u00008\u0000\u0000\u0019\u0000\t\u0013\u00002\u0000\u0000\u0000E\u0000D\u0018\u0000\u0000F\u0000Q\u0000P\u0000=\u0000\u0000<\u0000\u0000\u0000\u0000A\u0000\u0001\u0000\u0005t\u0000\u000b\u0000\u0004\u0003\u0000\u0001\u0002\u0000\n\u0000\u0012\u0000\u0010\u0011\u0000\u001d\u0000\u0017\u0000\u001e\u0000\u0018\u0000\u0019\u0001\u0000\u0001\u0001\u0000#\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\r\u0000<\u0000:\t\u0005\t\u0006\t\u0004\u0004\u0003\u0005\u0003\u0006\u0003\b\u0007\b\b\b\u001a\b\u001b\b\u001c\b\t\b\n\b\u000b\b\u0004\b\u0005\b\u0006\u0004\u0001\u0005\u0001\u0006\u0001\u0003\u0003\u0002\u0003\u0003\u0001\u0002\u0001\u0003\u0002\u0002\u0002\u0004\u0002\u0005\u0002\u0006\u0002\u0000+\u0000\t\b\u0003\u0004\u0003\u0003\u0003\u0002\u0003\u0001\u0000-\u0000\u0002\u0001\u0001\u00003\u0004\u0004\u0011\u0004\u04ca-\u000f):^jf\u0012+\u001aW\\Y\b\u0019*akxL^\u0003,\\P\u0014)xT\u0015\ns$\u0007/$had#\u0003W\u0084\u02deYyVl[1\u0011Z%5S<POPi\\s?X==<-T\u00ccjz({\u0012Gm\u0002W}\u000b8ZdeR{X}k\u001d1 }\u001c\u0000xv\f\u001d}9@a{\nC3S\"1z\u0019s\u001bH\u00066&W\u001e7\u0017KY\u0011:{98M4\u001da\u001c?\u0007\u000f5\u001d\u001b\u0012qrw\u001c~w\u000b+\u0014A{\u0007~\u0003!;2JP\u000fw9{3\u001d&>:\u073cvp\u0005dSQb\u0014=9\u0003\u000138pGd\u0017\rfFr\nU3i^\u001a?\u5b23:\u0010qOM\u0002\t\u02ca)P(2[x\u02f0[J(M`f\u0018sq\u0019\u0016d,^\u0003ga;M'l\u02e0\n\u0001\u07f2k0w\u0016nv\u0015`E:B&\u0017\"T?v'B8x\u00109\u000b'd\u0011WJ>\fdp\u00ee4\u026a\u0001Ga!Xxz\u0358$r,\u0015>m8f\u000e#\u001f}L\"}@\u001cM_~\u001e\nN\u0001\u0003\u0018k\u017c\u0086r\u001e\u0291 ++e\u000b\u0004v`*\u000e&a'zz\u0016q>`w"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:01.152244",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0016\u0003\u0001\u0006\u0001\u0000\u0006\u007f\u0003\u0003\u0015X Oc\u0010mU\r\u03079\u0017\u001aE~p$#*\u04c0Z \u001c\u0616d\u0018\u0002f'-y{ReH!\u001bi]\u0000\u0013\u0002\u0013\u0003\u0013\u0001\u0000\u0002\u0000\u0001\u00003\u00009\u0000:\u00005\u0000/\u00004\u0006\u0010\u0015\u0000;,0\u0000\u0000\u0329\u0328\u032a]aWS\u0000+/\u0000\u0000\\`VR\u0000$(\u0000k\u0000jsw\u0000\u0000\u0000m\u0000#'\u0000g\u0000@rv\u0000\u0000\u0000l\u0000\n\u0014\u00008\u0000\u0000\u0019\u0000\t\u0013\u00002\u0000\u0000\u0000E\u0000D\u0018\u0000\u0000F\u0000Q\u0000P\u0000=\u0000\u0000<\u0000\u0000\u0000\u0000A\u0000\u0001\u0000\u0005t\u0000\u000b\u0000\u0004\u0003\u0000\u0001\u0002\u0000\n\u0000\u0012\u0000\u0010\u0011\u0000\u001d\u0000\u0017\u0000\u001e\u0000\u0018\u0000\u0019\u0001\u0000\u0001\u0001\u0000#\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\r\u0000<\u0000:\t\u0005\t\u0006\t\u0004\u0004\u0003\u0005\u0003\u0006\u0003\b\u0007\b\b\b\u001a\b\u001b\b\u001c\b\t\b\n\b\u000b\b\u0004\b\u0005\b\u0006\u0004\u0001\u0005\u0001\u0006\u0001\u0003\u0003\u0002\u0003\u0003\u0001\u0002\u0001\u0003\u0002\u0002\u0002\u0004\u0002\u0005\u0002\u0006\u0002\u0000+\u0000\t\b\u0003\u0004\u0003\u0003\u0003\u0002\u0003\u0001\u0000-\u0000\u0002\u0001\u0001\u00003\u0004\u0004\u0011\u0004\u001cr=\u0006Nw|\u01b4r\u0019\u0012\u0006\u0014w\u00116\\z\u001d\u0001%_~p)BGc\n\u00011Z\u0005O\u00079}\u0002\u05d2,UV/vHHfFb\f^z\u0007d+\u02ccpG\u0018W1Rb\t\u0018\u0003\u0002a~7pg9H\u0015Rk%\u0001w \u00189cK5Lj\u0004_\u0652G7`&!\u007fI;18u\u0011\b]L\u001d\u0003+mi\f: %\u0005^5\u0014\u0011|vCj@(4\u001a6h^\u0274\u0007`b0\u001b]\u0014 \u0014\n\u0012\u026d[L5\u0015GY#l t.\u6047\u0001\b3UhYiJ^y%KV\nlI4\u0006!k\u0010\u0015*\u001f\u001e4\f\u0005\b;.L20\u007f9M{\u001b9C\u0011pM6\u00161\u0006_(\\J\u001b\u0432v\u0004\u3065\u05daQ\u0323\u0000hQfB\u000b5\u007f\u0190\u000e\u0016\u0010f\u0016fbsO\u0004\u000fe]\u0017_v2\u001f\u0014\fD[l4\u0012E\u0015f&#z4g\u007f\u001c\u001b\u0018*+?\u0006/w*\u000e\u0011<z7\u0015q5y;\f1\u015a\u0246Ah\u0006*\fH\u0010w3\t\u0014q\u0002$x0U\u0003u\u0016@i;ZP8\u001b8\u02750(6~\t\u0011\u00188\u007f\u0001\r,\u00129\u031eC\u0016i/v.\u001a\f{\u0010p\r\u000b;E"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:01.220268",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "GET /HNAP1 HTTP/1.1\r\nHost: 192.168.56.101\r\nConnection: close\r\nUser-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:01.268782",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0016\u0003\u0001\u0006\u0001\u0000\u0006\u007f\u0003\u00034@87^DV\"\u001f@!xFL1tu \u0012{-58ss:H'\u06a2z\u007f\u001f6t%*\u0000\u0013\u0002\u0013\u0003\u0013\u0001\u0000\u0002\u0000\u0001\u00003\u00009\u0000:\u00005\u0000/\u00004\u0006\u0010\u0015\u0000;,0\u0000\u0000\u0329\u0328\u032a]aWS\u0000+/\u0000\u0000\\`VR\u0000$(\u0000k\u0000jsw\u0000\u0000\u0000m\u0000#'\u0000g\u0000@rv\u0000\u0000\u0000l\u0000\n\u0014\u00008\u0000\u0000\u0019\u0000\t\u0013\u00002\u0000\u0000\u0000E\u0000D\u0018\u0000\u0000F\u0000Q\u0000P\u0000=\u0000\u0000<\u0000\u0000\u0000\u0000A\u0000\u0001\u0000\u0005t\u0000\u000b\u0000\u0004\u0003\u0000\u0001\u0002\u0000\n\u0000\u0012\u0000\u0010\u0011\u0000\u001d\u0000\u0017\u0000\u001e\u0000\u0018\u0000\u0019\u0001\u0000\u0001\u0001\u0000#\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\r\u0000<\u0000:\t\u0005\t\u0006\t\u0004\u0004\u0003\u0005\u0003\u0006\u0003\b\u0007\b\b\b\u001a\b\u001b\b\u001c\b\t\b\n\b\u000b\b\u0004\b\u0005\b\u0006\u0004\u0001\u0005\u0001\u0006\u0001\u0003\u0003\u0002\u0003\u0003\u0001\u0002\u0001\u0003\u0002\u0002\u0002\u0004\u0002\u0005\u0002\u0006\u0002\u0000+\u0000\t\b\u0003\u0004\u0003\u0003\u0003\u0002\u0003\u0001\u0000-\u0000\u0002\u0001\u0001\u00003\u0004\u0004\u0011\u0004>g\u001d1A64B^>\u0000=\fE\u0006\u001e$|\u0016\u0006?z3\u0201,&R\fb5\u0001k,k+\u0014\u0018d\u0015\u0010D}4X\u0014\\t!(',J\"0\u0001Sj1\u00173^\u0004-!,`I\u0014\u0015'\u000fe''(tah6\u0016-<336\u0017o\f\u0235\u03e4;Nu\u0013,AA\u0005t1.eX\u000e\u0745\u001cL\u000bKy\u001ce-hST:\n`\u0002{y*g<IQ\u0007+\u001d\u0006\u0318<r`^8rz(%YnA\"^t\u0001A\u0013s3I828\u0011~\u06f1;\u007f\n\u0001R\u0015ur\u000bG\n0HogZt\u050bh/\u0017F\"\u001a8Lb\b OL9]\u0013[^w2^2-2LNql\u0634R\fYz%5<qw\u00033\u0166&d\u0114\u001bl&\u000f\u00102ir+AY=\u007f\u001b\u0007EI\u0007\tm%\u0011`H(U\u0018*\u026fyx\u013axRbe#3\u0004(\u0015Z\\9=f:\u05c3$8\u0004\u0012\u0006d,}\u001c&\u0014\u0017[\u0018\u007f\u0002\u02a2}\u00c23\u000f\u0017;\u0015q\u001b\u0012\u00161nFyg\u0004d#\u0010t\u022c\u000b\u0007\u0005\u0019F\u000es\t5\u00162h-7\u001bdQlF\b5\u0002(\u0007R\f dVOk\u0004\u0002\u0013E2|\u0019yx\u001bTR+7&\u0005kP\u0005\u000b@q0\u001a(3d\u0007m"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:01.378733",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 21,
+        "service": "FTP",
+        "data_sent": "\u0000\u0000(%k\u001e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0001\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 22:59:01.431596",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0016\u0003\u0001\u0006\u0001\u0000\u0006\u007f\u0003\u0003\u0003\u0012Zb4B\u0017B\u001f\u0004m\u0000\u07ff` \u0007\u0018A\u0162\u001az\u0229#aA\u00108(l\u0012\u03aa\u001aY*\u001c\u001d!v\u0000\u0013\u0002\u0013\u0003\u0013\u0001\u0000\u0002\u0000\u0001\u00003\u00009\u0000:\u00005\u0000/\u00004\u0006\u0010\u0015\u0000;,0\u0000\u0000\u0329\u0328\u032a]aWS\u0000+/\u0000\u0000\\`VR\u0000$(\u0000k\u0000jsw\u0000\u0000\u0000m\u0000#'\u0000g\u0000@rv\u0000\u0000\u0000l\u0000\n\u0014\u00008\u0000\u0000\u0019\u0000\t\u0013\u00002\u0000\u0000\u0000E\u0000D\u0018\u0000\u0000F\u0000Q\u0000P\u0000=\u0000\u0000<\u0000\u0000\u0000\u0000A\u0000\u0001\u0000\u0005t\u0000\u000b\u0000\u0004\u0003\u0000\u0001\u0002\u0000\n\u0000\u0012\u0000\u0010\u0011\u0000\u001d\u0000\u0017\u0000\u001e\u0000\u0018\u0000\u0019\u0001\u0000\u0001\u0001\u0000#\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\r\u0000<\u0000:\t\u0005\t\u0006\t\u0004\u0004\u0003\u0005\u0003\u0006\u0003\b\u0007\b\b\b\u001a\b\u001b\b\u001c\b\t\b\n\b\u000b\b\u0004\b\u0005\b\u0006\u0004\u0001\u0005\u0001\u0006\u0001\u0003\u0003\u0002\u0003\u0003\u0001\u0002\u0001\u0003\u0002\u0002\u0002\u0004\u0002\u0005\u0002\u0006\u0002\u0000+\u0000\t\b\u0003\u0004\u0003\u0003\u0003\u0002\u0003\u0001\u0000-\u0000\u0002\u0001\u0001\u00003\u0004\u0004\u0011\u0004\u000f3,T\"y\u0018k]\u0000W\u001ds>\u0017a,\u02866\u0016y\u0013\u0015MR1(hu%6=\nR4Ip$VDJx\u0013\u0018\u0018\u07b7p;W01d5G'i\rC\u00052\u0263@T70:WRzq&c<@$0l\u0004\u0010Hgx\u0014r\\|3\u001a2!\u0762M%`2\u0019GF\ucb19\u0383\u0014RTsM\u0015+?,D\u0007\u00105%\u0017\u0015y|\u0001W.\u000f \u0006\ucec8\u0017r6\u0006\nj\t\u0237vyF\u059e\u0245j \"\u01b0%]x'\u001a9a6U\n\u0328w\u0014\u001f(BT#\u00018@}n[\u0019U\u001e!m\u0003\u0013!6:J\u0003\u00b8\u0016\"WpiL \u001b\u0007\u0018\u05b6\u010b\u0000(he_\u0006\u007f4J\u0014G7\b!~ghx05*\u02cd11230L\u0018kJ\ucdb3.R\u00003^vuq\u0005>/w\u001bzLd\u04b4\u03a5[S&`\u001aSq5{!\u02c8(#\u0002$\u0000HPg\u0013+ \bdH\\#9c\u0011F84O;2H\u0015zj\b\u0006\np&Kv/ZR#dF_YZ\b[\u0005\f$P-\u0017\u0523)E5O8L9\u0001_:;0rd<@A\u0007G\u000e{\u0010'L:`\u0004(1o\u0012D$\u0716?s\u0007\u0013w\u001fO?HrehzN`\u007f+O\bj\u001e\u001dHK?"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:39.724736",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 22,
+        "service": "SSH",
+        "data_sent": "\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:39.743423",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0000\u001e\u0000\u0006\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0007version\u0004bind\u0000\u0000\u0010\u0000\u0003"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:39.746685",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 21,
+        "service": "FTP",
+        "data_sent": "\u0016\u0003\u0000\u0000S\u0001\u0000\u0000O\u0003\u0000?G,`~\u0000{\u0556w<=o\u0010n\u0000\u0000(\u0000\u0016\u0000\u0013\u0000\n\u0000f\u0000\u0005\u0000\u0004\u0000e\u0000d\u0000c\u0000b\u0000a\u0000`\u0000\u0015\u0000\u0012\u0000\t\u0000\u0014\u0000\u0011\u0000\b\u0000\u0006\u0000\u0003\u0001\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:39.762435",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "\u0000\f\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:39.787722",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 22,
+        "service": "SSH",
+        "data_sent": "OPTIONS / HTTP/1.0\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:39.792459",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 3306,
+        "service": "MySQL",
+        "data_sent": "\u0003\u0000\u0000*%\u0000\u0000\u0000\u0000\u0000Cookie: mstshash=nmap\r\n\u0001\u0000\b\u0000\u0003\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:39.800112",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "\u0003\u0000\u0000*%\u0000\u0000\u0000\u0000\u0000Cookie: mstshash=nmap\r\n\u0001\u0000\b\u0000\u0003\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:39.850959",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 21,
+        "service": "FTP",
+        "data_sent": "\u0001\u0000\u0000\u000b\u0000\u0000\u0000MMS\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0001\u0000\u0003\u0000\u000b\u0000\u0004\u0000\u001c\u0000\u0003\u0000N\u0000S\u0000P\u0000l\u0000a\u0000y\u0000e\u0000r\u0000/\u00009\u0000.\u00000\u0000.\u00000\u0000.\u00002\u00009\u00008\u00000\u0000;\u0000 \u0000{\u00000\u00000\u00000\u00000\u0000A\u0000A\u00000\u00000\u0000-\u00000\u0000A\u00000\u00000\u0000-\u00000\u00000\u0000a\u00000\u0000-\u0000A\u0000A\u00000\u0000A\u0000-\u00000\u00000\u00000\u00000\u0000A\u00000\u0000A\u0000A\u00000\u0000A\u0000A\u00000\u0000}\u0000\u0000\u0000m_"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:39.854982",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 3306,
+        "service": "MySQL",
+        "data_sent": "l\u0000\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:39.860703",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 22,
+        "service": "SSH",
+        "data_sent": "l\u0000\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:39.877195",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 21,
+        "service": "FTP",
+        "data_sent": "\u0000Z\u0000\u0000\u0001\u0000\u0000\u0000\u00016\u0001,\u0000\u0000\b\u0000\u007f\u007f\b\u0000\u0000\u0000\u0001\u0000 \u0000:\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00004\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000(CONNECT_DATA=(COMMAND=version))"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:39.883715",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "0\u0000\u0000\u0000-\u0002\u0001\u0007c\u0000\u0000\u0000$\u0004\u0000\n\u0001\u0000\n\u0001\u0000\u0002\u0001\u0000\u0002\u0001d\u0001\u0001\u0000\u000bobjectClass0\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:39.953235",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "\u0001default\n"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:39.974983",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "TNMP\u0004\u0000\u0000\u0000TNME\u0000\u0000\u0004\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:39.981111",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "0\u0000\u0000\u0000-\u0002\u0001\u0007c\u0000\u0000\u0000$\u0004\u0000\n\u0001\u0000\n\u0001\u0000\u0002\u0001\u0000\u0002\u0001d\u0001\u0001\u0000\u000bobjectClass0\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:39.997227",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0003\u0000\u0000\u000b\u0006\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:40.035110",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "0\f\u0002\u0001\u0001`\u0007\u0002\u0001\u0002\u0004\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:40.107358",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "DmdT\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0011\u0011\u0000\u0001\u0013"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:40.112716",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "OPTIONS sip:nm SIP/2.0\r\nVia: SIP/2.0/TCP nm;branch=foo\r\nFrom: <sip:nm@nm>;tag=root\r\nTo: <sip:nm2@nm2>\r\nCall-ID: 50000\r\nCSeq: 42 OPTIONS\r\nMax-Forwards: 70\r\nContent-Length: 0\r\nContact: <sip:nm@nm>\r\nAccept: application/sdp\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:40.117348",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": ":\u0000\u0000\u0000/\u0000\u0000\u0000\u0002\u0000\u0000@\u0002\u000f\u0000\u0001\u0000=\u0005\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000/\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000@\u001f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:40.167132",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "TNMP\u0004\u0000\u0000\u0000TNME\u0000\u0000\u0004\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:40.174491",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0001\u0000\u0000\u000b\u0000\u0000\u0000MMS\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0001\u0000\u0003\u0000\u000b\u0000\u0004\u0000\u001c\u0000\u0003\u0000N\u0000S\u0000P\u0000l\u0000a\u0000y\u0000e\u0000r\u0000/\u00009\u0000.\u00000\u0000.\u00000\u0000.\u00002\u00009\u00008\u00000\u0000;\u0000 \u0000{\u00000\u00000\u00000\u00000\u0000A\u0000A\u00000\u00000\u0000-\u00000\u0000A\u00000\u00000\u0000-\u00000\u00000\u0000a\u00000\u0000-\u0000A\u0000A\u00000\u0000A\u0000-\u00000\u00000\u00000\u00000\u0000A\u00000\u0000A\u0000A\u00000\u0000A\u0000A\u00000\u0000}\u0000\u0000\u0000m_"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:40.207324",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "\u0003\u0000\u0000\u000b\u0006\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:40.243361",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "DmdT\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0011\u0011\u0000\u0001\u0013"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:40.283247",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": ":\u0000\u0000\u0000/\u0000\u0000\u0000\u0002\u0000\u0000@\u0002\u000f\u0000\u0001\u0000=\u0005\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000/\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000@\u001f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:40.346929",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "JRMI\u0000\u0002K"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:40.351280",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "\u0001\u0000\u0000\u000b\u0000\u0000\u0000MMS\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0001\u0000\u0003\u0000\u000b\u0000\u0004\u0000\u001c\u0000\u0003\u0000N\u0000S\u0000P\u0000l\u0000a\u0000y\u0000e\u0000r\u0000/\u00009\u0000.\u00000\u0000.\u00000\u0000.\u00002\u00009\u00008\u00000\u0000;\u0000 \u0000{\u00000\u00000\u00000\u00000\u0000A\u0000A\u00000\u00000\u0000-\u00000\u0000A\u00000\u00000\u0000-\u00000\u00000\u0000a\u00000\u0000-\u0000A\u0000A\u00000\u0000A\u0000-\u00000\u00000\u00000\u00000\u0000A\u00000\u0000A\u0000A\u00000\u0000A\u0000A\u00000\u0000}\u0000\u0000\u0000m_"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:40.411500",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "\u0000Z\u0000\u0000\u0001\u0000\u0000\u0000\u00016\u0001,\u0000\u0000\b\u0000\u007f\u007f\b\u0000\u0000\u0000\u0001\u0000 \u0000:\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00004\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000(CONNECT_DATA=(COMMAND=version))"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:40.426313",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "\u0012\u0001\u00004\u0000\u0000\u0000\u0000\u0000\u0000\u0015\u0000\u0006\u0001\u0000\u001b\u0000\u0001\u0002\u0000\u001c\u0000\f\u0003\u0000(\u0000\u0004\b\u0000\u0001U\u0000\u0000\u0000MSSQLServer\u0000H\u000f\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:40.492324",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "\u0000\u0003\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u000f\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:40.511545",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 23,
+        "service": "Telnet",
+        "data_sent": "GIOP\u0001\u0000\u0001\u0000$\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0006\u0000\u0000\u0000abcdef\u0000\u0000\u0004\u0000\u0000\u0000get\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:40.664527",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0016\u0003\u0000\u0000i\u0001\u0000\u0000e\u0003\u0003U\u001crandom1random2random3random4\u0000\u0000\f\u0000/\u0000\n\u0000\u0013\u00009\u0000\u0004\u0000\u0001\u0000\u00000\u0000\r\u0000,\u0000*\u0000\u0001\u0000\u0003\u0000\u0002\u0006\u0001\u0006\u0003\u0006\u0002\u0002\u0001\u0002\u0003\u0002\u0002\u0003\u0001\u0003\u0003\u0003\u0002\u0004\u0001\u0004\u0003\u0004\u0002\u0001\u0001\u0001\u0003\u0001\u0002\u0005\u0001\u0005\u0003\u0005\u0002"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:40.679185",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "t3 12.1.2\nAS:2048\nHL:19\n\n"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:40.743295",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "GET / HTTP/1.0\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:40.791477",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "GET / HTTP/1.0\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:40.831836",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0016\u0003\u0000\u0000S\u0001\u0000\u0000O\u0003\u0000?G,`~\u0000{\u0556w<=o\u0010n\u0000\u0000(\u0000\u0016\u0000\u0013\u0000\n\u0000f\u0000\u0005\u0000\u0004\u0000e\u0000d\u0000c\u0000b\u0000a\u0000`\u0000\u0015\u0000\u0012\u0000\t\u0000\u0014\u0000\u0011\u0000\b\u0000\u0006\u0000\u0003\u0001\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:40.934264",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "GET /nmaplowercheck1780164040 HTTP/1.1\r\nConnection: close\r\nUser-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)\r\nHost: 192.168.56.101\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:41.006848",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0016\u0003\u0001\u0006\u0001\u0000\u0006\u007f\u0003\u0003$aAz5\u001a^R\u0017\u001c\u000eu/N\u0005_\u0007(mA@2\u0015 ^E\u0019\fM*NFk\u0367=I:\u001ff\u057c`\u0000\u0013\u0002\u0013\u0003\u0013\u0001\u0000\u0002\u0000\u0001\u00003\u00009\u0000:\u00005\u0000/\u00004\u0006\u0010\u0015\u0000;,0\u0000\u0000\u0329\u0328\u032a]aWS\u0000+/\u0000\u0000\\`VR\u0000$(\u0000k\u0000jsw\u0000\u0000\u0000m\u0000#'\u0000g\u0000@rv\u0000\u0000\u0000l\u0000\n\u0014\u00008\u0000\u0000\u0019\u0000\t\u0013\u00002\u0000\u0000\u0000E\u0000D\u0018\u0000\u0000F\u0000Q\u0000P\u0000=\u0000\u0000<\u0000\u0000\u0000\u0000A\u0000\u0001\u0000\u0005t\u0000\u000b\u0000\u0004\u0003\u0000\u0001\u0002\u0000\n\u0000\u0012\u0000\u0010\u0011\u0000\u001d\u0000\u0017\u0000\u001e\u0000\u0018\u0000\u0019\u0001\u0000\u0001\u0001\u0000#\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\r\u0000<\u0000:\t\u0005\t\u0006\t\u0004\u0004\u0003\u0005\u0003\u0006\u0003\b\u0007\b\b\b\u001a\b\u001b\b\u001c\b\t\b\n\b\u000b\b\u0004\b\u0005\b\u0006\u0004\u0001\u0005\u0001\u0006\u0001\u0003\u0003\u0002\u0003\u0003\u0001\u0002\u0001\u0003\u0002\u0002\u0002\u0004\u0002\u0005\u0002\u0006\u0002\u0000+\u0000\t\b\u0003\u0004\u0003\u0003\u0003\u0002\u0003\u0001\u0000-\u0000\u0002\u0001\u0001\u00003\u0004\u0004\u0011\u0004wt\u0000Wo\u001c2S\u0010v\u042eQ\u0012TGQ9E`}w#x\u001fS\u0011\u0007rPIu\u02004\u0003_\"x\n\u0007@\u0003\u0007Hb\u007f=;X \u02f7uy\u000eOyQ2{\"\u0013\u0007)Zcn\u0015\fY62\u0001K\u00ec6*P0{O7%5\u0014\u007f$glE\thV3m+j5I o\u0012%\u05a0\u001b\u0001J\u06f8\u0578vF<\u0010'\u000bhJ\u0018}9\twhZR6\b\u0000\u00041\u0002|]<\u0010G5\u000er9vq@\u0019m?0\u0015M<`p\u0002d<xj;\u0228\u007f\u05d3\t\u0016\u00052@|kz~B\u0017\u0019\u0014FO\"YQ|\u007fSY`\u0018,=l(Crf:%d\u0005=\ti\u001fABlO\u00187\n{\rtn5\n81zSxSeX[P{CBr\u043b W~\u0006\"8Ocx[\u001e\u0012+\u0019d\u066c@xYTl\u053c\u000b@\u0019\b!\u001dWI`\u0428\u0012FT?\"V\u000f\u0014'[eS?'^j\u0007\u0003uG\u0465E@u\u0015dq4;&Jq\u0004\u0003W\u01b1P\u001fjqx\bB,\u000b\u0019h1G|l\u000b]gtLH\f;_Qe46Rm@*-\u000f\u001c\u00181\u000f(L\u0005Bf9B4lftZ\u0242b\tiC#\u0010u"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:41.022727",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "POST /sdk HTTP/1.1\r\nConnection: close\r\nUser-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)\r\nContent-Length: 441\r\nHost: 192.168.56.101\r\n\r\n<soap:Envelope xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\"><soap:Header><operationID>00000001-00000001</operationID></soap:Header><soap:Body><RetrieveServiceContent xmlns=\"urn:internalvim25\"><_this xsi:type=\"ManagedObjectReference\" type=\"ServiceInstance\">ServiceInstance</_this></RetrieveServiceContent></soap:Body></soap:Envelope>"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:41.099137",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0016\u0003\u0001\u0006\u0001\u0000\u0006\u007f\u0003\u0003}\u001f2A|PXQGOLC|\r\bQ\u000b \r1i[\u0019d\u0017\u0002\u01a6{&\u007f\u0019H\u001a\u001d\u0019B\u0000\u0013\u0002\u0013\u0003\u0013\u0001\u0000\u0002\u0000\u0001\u00003\u00009\u0000:\u00005\u0000/\u00004\u0006\u0010\u0015\u0000;,0\u0000\u0000\u0329\u0328\u032a]aWS\u0000+/\u0000\u0000\\`VR\u0000$(\u0000k\u0000jsw\u0000\u0000\u0000m\u0000#'\u0000g\u0000@rv\u0000\u0000\u0000l\u0000\n\u0014\u00008\u0000\u0000\u0019\u0000\t\u0013\u00002\u0000\u0000\u0000E\u0000D\u0018\u0000\u0000F\u0000Q\u0000P\u0000=\u0000\u0000<\u0000\u0000\u0000\u0000A\u0000\u0001\u0000\u0005t\u0000\u000b\u0000\u0004\u0003\u0000\u0001\u0002\u0000\n\u0000\u0012\u0000\u0010\u0011\u0000\u001d\u0000\u0017\u0000\u001e\u0000\u0018\u0000\u0019\u0001\u0000\u0001\u0001\u0000#\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\r\u0000<\u0000:\t\u0005\t\u0006\t\u0004\u0004\u0003\u0005\u0003\u0006\u0003\b\u0007\b\b\b\u001a\b\u001b\b\u001c\b\t\b\n\b\u000b\b\u0004\b\u0005\b\u0006\u0004\u0001\u0005\u0001\u0006\u0001\u0003\u0003\u0002\u0003\u0003\u0001\u0002\u0001\u0003\u0002\u0002\u0002\u0004\u0002\u0005\u0002\u0006\u0002\u0000+\u0000\t\b\u0003\u0004\u0003\u0003\u0003\u0002\u0003\u0001\u0000-\u0000\u0002\u0001\u0001\u00003\u0004\u0004\u0011\u0004,cAAf\u0017w$v\u000fuxkEPf$\u0016/\u0017\u0002\u001c`Mu\t\u0010Q\bK\u000fu\u052cJHG%K\"y\u0006\u001b\u001b,\u000btP\fSP\u0011\bB\"\u0007`\f\u0003KUs\u000f/]\n\"\u00f3$\u0004\u001f\u0188\u0011%\u03d3\u001crZI}\"\u0003'zG\u0007`\u001b\r4\\Jf%1[\u000e\u022cA`B \r\u0000\\\u0000\u001fK\u0013\u001c\u24df\u01ab\u000f\u0005\u01faIj\u0233\r.Rb3=\u0015E\u0000(|x\r\u7b3f \\pg{4\u0005t\u0012sL!Z\u00064\u0005EF\u0017\u0018\u0017%g64\u0199#K7k\u000bJ\u001er6Fv3B*s\u000fr<\"B\u001eA\t\u001c4GB>XcGSz\u001eU\u0016Bo@eb\u0002.J8\u0014Q\"szV\u001f\u001d\u0082kop\u0098)x.RP\u0010\u0000\u0013d\n\u0007.\u001fL=?\u007fJ[\u0004b\u0001!IDqP\n[\u001b\u0002&%A1/4;yXNXGz*H\u001crs\ffb\u0304q\f1h\u00051$\u04f8l\u0016Y\u000f3\u001f\u0627\u001d)u\u0015} \u001d.Z\u000bV\u06da(6J\u0001&@\u0015%B6e\u0725\u020a\u0010\u0016\fa\u001d:\u000bR.(\u02270DSX%FfJo\u0012/pI\rQ\u000f\u0016\u000f\bE"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:41.187583",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "GET /evox/about HTTP/1.1\r\nConnection: close\r\nUser-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)\r\nHost: 192.168.56.101\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:41.195163",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0016\u0003\u0001\u0006\u0001\u0000\u0006\u007f\u0003\u0003py\u0018V\u000bAX\u04d4\u001bN0zs\u0005\u000f\u0002cN CF\u0002%\f\u8cad\u0014Cs\u001eN(LDgi\u0000\u0013\u0002\u0013\u0003\u0013\u0001\u0000\u0002\u0000\u0001\u00003\u00009\u0000:\u00005\u0000/\u00004\u0006\u0010\u0015\u0000;,0\u0000\u0000\u0329\u0328\u032a]aWS\u0000+/\u0000\u0000\\`VR\u0000$(\u0000k\u0000jsw\u0000\u0000\u0000m\u0000#'\u0000g\u0000@rv\u0000\u0000\u0000l\u0000\n\u0014\u00008\u0000\u0000\u0019\u0000\t\u0013\u00002\u0000\u0000\u0000E\u0000D\u0018\u0000\u0000F\u0000Q\u0000P\u0000=\u0000\u0000<\u0000\u0000\u0000\u0000A\u0000\u0001\u0000\u0005t\u0000\u000b\u0000\u0004\u0003\u0000\u0001\u0002\u0000\n\u0000\u0012\u0000\u0010\u0011\u0000\u001d\u0000\u0017\u0000\u001e\u0000\u0018\u0000\u0019\u0001\u0000\u0001\u0001\u0000#\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\r\u0000<\u0000:\t\u0005\t\u0006\t\u0004\u0004\u0003\u0005\u0003\u0006\u0003\b\u0007\b\b\b\u001a\b\u001b\b\u001c\b\t\b\n\b\u000b\b\u0004\b\u0005\b\u0006\u0004\u0001\u0005\u0001\u0006\u0001\u0003\u0003\u0002\u0003\u0003\u0001\u0002\u0001\u0003\u0002\u0002\u0002\u0004\u0002\u0005\u0002\u0006\u0002\u0000+\u0000\t\b\u0003\u0004\u0003\u0003\u0003\u0002\u0003\u0001\u0000-\u0000\u0002\u0001\u0001\u00003\u0004\u0004\u0011\u0004n#\u0019\u0012\u0013%:Jj\u0007d\u0002\"p6\u0005\u001a5yyTC'[CRx3)\u0004LZ\u0521k\u001c\u00c8\u0004bH\u0000Q\u001a|Pw\u0016v\u0014<)KJ9U\u0010.f\u06a6\u0012l7-\fn\u0000\u0007'Hi&I\u001aUzGzH4,d\u0012oWK\u54f0]D\u0000C%\u000f*M/AawU\u0001>:='\u0007.}.;\u59d7&F&=o\u05e6\u001a\u0012x\f!F,u70wp!`\u00068\f\u001dz\u001c\u0000,\u000e~xz3I\u001e\u0474\u001cgG`\u0018Re\u052ad\tEdB\u0010\u0019\u039aQ-#7&\u0019f)R\r\u7e4fD'\u0753\u001e#u\u001a1oAG\t,I@*~@K\u0010jH0Q;lif\u016bigVUBD%\u0724\t\u0418R\t>L?B\rXoP\u0000(\u0006\u000b\u00ba\u001c>0Ej2agF\u0010P\u001a]08\"\u007fW6\u001f')mqg\fG2\u0301+.\u0017\r\u0016V#\n\u023bZ\u001b5et\f4T\f^d+\u0015\u0017\u0016a\u001c\u001aXkZaqL23\u00159D\u001ak*\u0500>V\u0314j\u0002k\u007f\rF\u0007pg3,3f(\t\u001c\b\u0016Y]\u0011\u0003SV+\nEky\u0001p\"I"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:41.238726",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "GET /nmaplowercheck1780164040 HTTP/1.1\r\nConnection: close\r\nUser-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)\r\nHost: 192.168.56.101\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:41.247678",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0016\u0003\u0001\u0006\u0001\u0000\u0006\u007f\u0003\u0003hIJT\u001aZ&li\u000e\u0018\u0018@\u0013xU\u0005v#R \u0016,_\u000f\u0011Q\u001cC\u05d5E\u0006BBR0\u007fDN\u0000\u0013\u0002\u0013\u0003\u0013\u0001\u0000\u0002\u0000\u0001\u00003\u00009\u0000:\u00005\u0000/\u00004\u0006\u0010\u0015\u0000;,0\u0000\u0000\u0329\u0328\u032a]aWS\u0000+/\u0000\u0000\\`VR\u0000$(\u0000k\u0000jsw\u0000\u0000\u0000m\u0000#'\u0000g\u0000@rv\u0000\u0000\u0000l\u0000\n\u0014\u00008\u0000\u0000\u0019\u0000\t\u0013\u00002\u0000\u0000\u0000E\u0000D\u0018\u0000\u0000F\u0000Q\u0000P\u0000=\u0000\u0000<\u0000\u0000\u0000\u0000A\u0000\u0001\u0000\u0005t\u0000\u000b\u0000\u0004\u0003\u0000\u0001\u0002\u0000\n\u0000\u0012\u0000\u0010\u0011\u0000\u001d\u0000\u0017\u0000\u001e\u0000\u0018\u0000\u0019\u0001\u0000\u0001\u0001\u0000#\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\r\u0000<\u0000:\t\u0005\t\u0006\t\u0004\u0004\u0003\u0005\u0003\u0006\u0003\b\u0007\b\b\b\u001a\b\u001b\b\u001c\b\t\b\n\b\u000b\b\u0004\b\u0005\b\u0006\u0004\u0001\u0005\u0001\u0006\u0001\u0003\u0003\u0002\u0003\u0003\u0001\u0002\u0001\u0003\u0002\u0002\u0002\u0004\u0002\u0005\u0002\u0006\u0002\u0000+\u0000\t\b\u0003\u0004\u0003\u0003\u0003\u0002\u0003\u0001\u0000-\u0000\u0002\u0001\u0001\u00003\u0004\u0004\u0011\u0004\u02f8\u000bhqu\nY\u0014R\u000f\u0442G-\u0018?d\u04fa9a$\u0002\u0002\r/c\bY4Q6\u0011`<\u000e\n\fd\u0004I\u0011c_p\n\u0004e\u0005:\\ILsP=WU1\u0001\u0007eiTy<}0]dRDtk\u0484\n$6\u000bD\u0007\u0005Os\u001e\u000bLcFr<?\u001dd\u0015if\ftA\u02ab\u00174#\rP=s\u001d\u0014-|{\u015e\u0018Ts\u001a\u0005)\u001c\f\u00feX67\u00e7V'\u0005\u00e4\u00172\u000e\u0003_8V\u0012\u0001\u06d8\u0003\u403c\u0002\nR1\u00135T2h\u0013{q L+wH\u049d@\u0002{<UW\f3Z,tAPo%L\nq3v%0o\u0004\u0477\u000b$/QY\u000f\u06562o\u00118\nx\u0001\u0017?Cp4=8\u02c7q\u001e\u001ay\u007fE\u0019Y\u000f\u04af\u000297\u0005C4Q-z}uO&\u0004p*-SJg5\u019fpK\u0005vx\u00145hOegR1y\u0006\u0004|S`v1JP1,Rk(\u001e(\u0007@\u04faD)\u0019tdxy\u0015\u001f\u0006\u0269\u01f01\u00d1\u000e\u000b\u0310<rB|eHI6\u0007NKb8^\u001a\n\u0001#a\u0001&ui5\u0006\u001fy9\u0013b3M;[Rp\u0208\u001cib\u0005\u001a|\u0015B\u001e6\u0018y\u001dQ\u0000Q\u07fc8Z\u02ac\u0016_\u00070\u0011f~"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:41.302173",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0016\u0003\u0001\u0006\u0001\u0000\u0006\u007f\u0003\u0003\u0002\u0001\\Z?x0<\u0004\u0014d@&g\f\ufcf6\u0006 \t\u001c(I\u001e-O\u001a\u0017v&@\u001aH\u0000\u0013\u0002\u0013\u0003\u0013\u0001\u0000\u0002\u0000\u0001\u00003\u00009\u0000:\u00005\u0000/\u00004\u0006\u0010\u0015\u0000;,0\u0000\u0000\u0329\u0328\u032a]aWS\u0000+/\u0000\u0000\\`VR\u0000$(\u0000k\u0000jsw\u0000\u0000\u0000m\u0000#'\u0000g\u0000@rv\u0000\u0000\u0000l\u0000\n\u0014\u00008\u0000\u0000\u0019\u0000\t\u0013\u00002\u0000\u0000\u0000E\u0000D\u0018\u0000\u0000F\u0000Q\u0000P\u0000=\u0000\u0000<\u0000\u0000\u0000\u0000A\u0000\u0001\u0000\u0005t\u0000\u000b\u0000\u0004\u0003\u0000\u0001\u0002\u0000\n\u0000\u0012\u0000\u0010\u0011\u0000\u001d\u0000\u0017\u0000\u001e\u0000\u0018\u0000\u0019\u0001\u0000\u0001\u0001\u0000#\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\r\u0000<\u0000:\t\u0005\t\u0006\t\u0004\u0004\u0003\u0005\u0003\u0006\u0003\b\u0007\b\b\b\u001a\b\u001b\b\u001c\b\t\b\n\b\u000b\b\u0004\b\u0005\b\u0006\u0004\u0001\u0005\u0001\u0006\u0001\u0003\u0003\u0002\u0003\u0003\u0001\u0002\u0001\u0003\u0002\u0002\u0002\u0004\u0002\u0005\u0002\u0006\u0002\u0000+\u0000\t\b\u0003\u0004\u0003\u0003\u0003\u0002\u0003\u0001\u0000-\u0000\u0002\u0001\u0001\u00003\u0004\u0004\u0011\u0004\u7693{)N\u0012lGB0y\u0015\u000b\u0010O\u0274\u0017\u0014\\\u04fa7c1\u0220\u0013\u0016\u0152o*k^\u0003\u92d3\u000b`4S\u000bU\"v\u018dU;Ai\u00192$bsR\u000e\u0002I<ehK\u001f6L@ t\u01e5\u000e=\u0019DuG\u000b;\f\u0015\u0003M)JQY7`\\Bd[\u03ea\u000fmz<(b\u0001!3p'r\u03f1|u8Vh\u0017\u0017M\u01f1\u001d_\u007f\u001dGzIT\n\u001c\u0016\u0003\f\u0005g\u0653SdxLZYx%b5\u00037\u0013(\u0000\t\u00118\u001bM\u0695px@5\u0006=Hhz\u03f3\t\u0003T`\u000eT\u0017G\u0017\u001bN\u001fuaIeB+\u000eDaa-+|$\u001b\u0019i~ v'J#\u0002S\u072c$\u0019\u0017D\u045b!@\"j5\u000e;f{\"nX{l(%lj~4CnD\"!'9{Z;j\u0367\u0014NO2t>\\|cttjYG<UjW{\u0004%[\u0011\"@Mi\u0010K`\u001fMN\u0005&.\tT\u0002\u0013\u0002\u0004\u04b4O:\u0340#\u0010\u001dc\u00071I\u0013g\u0000\u0015\u0768{VA\u0006\u0001`e\u001b!(\u04a8M<\u0001P\u0010{h:\u0012D\u0016k,Y\f5\\bU\nG\u0018`SBGm_la\u0007E\b"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:41.375162",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "GET /HNAP1 HTTP/1.1\r\nConnection: close\r\nUser-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)\r\nHost: 192.168.56.101\r\n\r\n"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:41.425682",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0016\u0003\u0001\u0006\u0001\u0000\u0006\u007f\u0003\u0003.@/|^\u0609\u000b\u001co~*(V\u0006t] \u03ceUdYAd|q\u0006\tF=8`6m\u0002'>l\u0000\u0013\u0002\u0013\u0003\u0013\u0001\u0000\u0002\u0000\u0001\u00003\u00009\u0000:\u00005\u0000/\u00004\u0006\u0010\u0015\u0000;,0\u0000\u0000\u0329\u0328\u032a]aWS\u0000+/\u0000\u0000\\`VR\u0000$(\u0000k\u0000jsw\u0000\u0000\u0000m\u0000#'\u0000g\u0000@rv\u0000\u0000\u0000l\u0000\n\u0014\u00008\u0000\u0000\u0019\u0000\t\u0013\u00002\u0000\u0000\u0000E\u0000D\u0018\u0000\u0000F\u0000Q\u0000P\u0000=\u0000\u0000<\u0000\u0000\u0000\u0000A\u0000\u0001\u0000\u0005t\u0000\u000b\u0000\u0004\u0003\u0000\u0001\u0002\u0000\n\u0000\u0012\u0000\u0010\u0011\u0000\u001d\u0000\u0017\u0000\u001e\u0000\u0018\u0000\u0019\u0001\u0000\u0001\u0001\u0000#\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\r\u0000<\u0000:\t\u0005\t\u0006\t\u0004\u0004\u0003\u0005\u0003\u0006\u0003\b\u0007\b\b\b\u001a\b\u001b\b\u001c\b\t\b\n\b\u000b\b\u0004\b\u0005\b\u0006\u0004\u0001\u0005\u0001\u0006\u0001\u0003\u0003\u0002\u0003\u0003\u0001\u0002\u0001\u0003\u0002\u0002\u0002\u0004\u0002\u0005\u0002\u0006\u0002\u0000+\u0000\t\b\u0003\u0004\u0003\u0003\u0003\u0002\u0003\u0001\u0000-\u0000\u0002\u0001\u0001\u00003\u0004\u0004\u0011\u0004Y^\u001aurW\u0000~u\u00160\u001b=\u000f$x+tK\u0006\u0013\u0018\r\u0000jW![\r.{n\u0014CK!Z0L\u0006,s>w \u0000e6F\u00032\u0482#\u0018#\u0017i0\u0012&\u001ay6#P\f\brt\u0013]6^o<U\fr\u03c4sL\u001c:puodEw'z\u0183FT\u001b!8_W~G\u0652H'y7|\u001bq\bh0\r@\u001cKuy\u0000\u0015.\b,\u001dYJfy1\u0005k|a0v4\fWDf/j\f]\u0237\u000bQXII\u01b4=J\u0002\u001dJ{s\u0013!eX\u001dt\b\u000bm ]\u001f\u0419#\u0004:8\u0007[am~a6\u03e6Fl[.T[\u001a:\u007fn6l4\\?v[kz:\"B/Y,/t\u001b\u0006\u001bgx\fuwZSu\u00196(\u001c\u001dZ5\u0017BK<\u0011fv:\t\u007f\u00190g+C\u0004\u058cC\n7\u0088\u0013\u0275dC)\u0017%39\tN=zwG\u0011\u001fTf\\RQ\u0000\u0011\u0306'RNF\u001a:x\u0012\u0005\u0464:P\u001b\u001bIX\nU@V\u0000fSi\u0000h5zhBpS=f&y:\u001d<7h\u001b\u001f\u0157\u00107'I\u00c1LDM\u0000ViXo-\u0012>vjLpC&\u0001q3\n26J;F\u0004"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:41.496557",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 22,
+        "service": "SSH",
+        "data_sent": "\u0000\u0000((DKq\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0001\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "timestamp": "2026-05-30 23:00:41.507911",
+        "attacker_ip": "192.168.56.101",
+        "port_attacked": 80,
+        "service": "HTTP",
+        "data_sent": "\u0016\u0003\u0001\u0006\u0001\u0000\u0006\u007f\u0003\u0003<\b\u0019fp+9\bvVgwE&8\u0018@\u007f )D\u07d5\u0629D\u000be4\u0016\u0003bA#tr\u0002\u0016O\u0000\u0013\u0002\u0013\u0003\u0013\u0001\u0000\u0002\u0000\u0001\u00003\u00009\u0000:\u00005\u0000/\u00004\u0006\u0010\u0015\u0000;,0\u0000\u0000\u0329\u0328\u032a]aWS\u0000+/\u0000\u0000\\`VR\u0000$(\u0000k\u0000jsw\u0000\u0000\u0000m\u0000#'\u0000g\u0000@rv\u0000\u0000\u0000l\u0000\n\u0014\u00008\u0000\u0000\u0019\u0000\t\u0013\u00002\u0000\u0000\u0000E\u0000D\u0018\u0000\u0000F\u0000Q\u0000P\u0000=\u0000\u0000<\u0000\u0000\u0000\u0000A\u0000\u0001\u0000\u0005t\u0000\u000b\u0000\u0004\u0003\u0000\u0001\u0002\u0000\n\u0000\u0012\u0000\u0010\u0011\u0000\u001d\u0000\u0017\u0000\u001e\u0000\u0018\u0000\u0019\u0001\u0000\u0001\u0001\u0000#\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\r\u0000<\u0000:\t\u0005\t\u0006\t\u0004\u0004\u0003\u0005\u0003\u0006\u0003\b\u0007\b\b\b\u001a\b\u001b\b\u001c\b\t\b\n\b\u000b\b\u0004\b\u0005\b\u0006\u0004\u0001\u0005\u0001\u0006\u0001\u0003\u0003\u0002\u0003\u0003\u0001\u0002\u0001\u0003\u0002\u0002\u0002\u0004\u0002\u0005\u0002\u0006\u0002\u0000+\u0000\t\b\u0003\u0004\u0003\u0003\u0003\u0002\u0003\u0001\u0000-\u0000\u0002\u0001\u0001\u00003\u0004\u0004\u0011\u0004\u0702)\u0013G\u000ez\u06edzhXii|bH\u0003Tx\u0000w@\u079cz:(ka\u007f-,Z\u00115\u001bk\bA\\&UqE\r\u0114\u000f*~H\u039dK\u0010NRS0fb\u0014zs~6\u00072\u00145B>\u0017\u007f|F:\u001b#I\u0000\n!\u000fA>P\u0011\u007fu\u007fVg`.gnPn|YlQ\u007fak5m(\u001f&G\u0019\u00198{C&Ub#Kw\u0017#WZ3rL\u00013-b2!\u00c929@F>(aU\u0006\u0017a\u0731\u0018\u0001sY\fg\u0013r\t(\u4317:OEX\u007f!n\u0006[\u0006\u001b/6afa\u0010s\u0011\u0481M&EK2I}=\u0003\u0018\u001cd]$L9JB+\u0014\u000ei{\u0002q,^\u043b!\rv^\n0F\u0019\u001c\u001aJ1\u001ax2Mg4j%+<\u0012G8*tpW\"ENU\u0581o\u001b\t\u0006\t'p*\u0000OU%C\u00149-\u01ea\u0000.GM\u04f1,\u0012Nuv\n\u000fjZ\u034a{t'\u0003D\u001bJV93\fcO47&\u00bf\u0007k\tSRSv\u0018=\f},y'52l\u0018\u0007\u0005{TU\u0015'\u0004 '\u0019\b|}.}\u0004y?\b<wq\u0019\u0005.}pf8\u0019RUO\u0012R[c=p\u0003t\u0017Cb{';\u0011dp$LZ\\G\u0018f\tH"
+    }
+]

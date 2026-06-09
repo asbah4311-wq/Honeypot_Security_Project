@@ -39,7 +39,7 @@ This project was developed in a controlled lab environment for educational purpo
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/asbah4311-wq/Honeypot_security_Project.git
+git clone https://github.com/asbah4311-wq/Honeypot_Security_Project.git
 cd Honeypot_security_Project
 ```
 
@@ -73,6 +73,7 @@ python dashboard1.py
 - `honeypot.py` — core honeypot logic
 - `login_trap.py` — fake admin login page
 - `dashboard1.py` — Flask dashboard to view attack logs
+- `honeypot_logs.json` — stores all captured attack logs
 
 ---
 

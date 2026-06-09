@@ -23,6 +23,12 @@ This project was developed in a controlled lab environment for educational purpo
 ---
 
 ## 📂 Project Structure
+Honeypot_security_Project/
+├── honeypot.py
+├── login_trap.py
+├── dashboard1.py
+├── honeypot_logs.json
+└── README.md
 ---
 
 ## 🔄 Methodology
@@ -65,9 +71,14 @@ python dashboard1.py
 ```
 
 6. Open your browser and go to:
-- http://localhost:5000 → fake login page
-- http://localhost:8080 → attack dashboard
+- http://localhost:5000 → fake login page (if running on same machine)
+- http://localhost:8080 → attack dashboard (if running on same machine)
 
+OR if accessing from another machine on same network:
+- http://192.168.x.x:5000 → fake login page
+- http://192.168.x.x:8080 → attack dashboard
+
+---
 ---
 
 ## 📁 Project Files
@@ -82,6 +93,14 @@ python dashboard1.py
 - A fake admin login page on http://localhost:5000
 - Every login attempt gets logged with IP, username, password, timestamp
 - Dashboard on http://localhost:8080 shows all attack logs
+
+---
+
+## 🌐 Network Setup (VirtualBox)
+- Go to VirtualBox → Kali VM → Settings → Network
+- Set Adapter to **Host-Only** or **Bridged** mode
+- This allows Windows browser to access Kali-hosted pages
+- NAT mode will NOT work for cross-machine access
 
 ---
 
